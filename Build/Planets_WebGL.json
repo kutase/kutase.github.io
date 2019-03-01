@@ -1,0 +1,13 @@
+{
+"companyName": "Nebulate.me",
+"productName": "planets",
+"dataUrl": "Planets_WebGL.data.unityweb",
+"wasmCodeUrl": "Planets_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Planets_WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
